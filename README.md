@@ -10,8 +10,9 @@
 [Fontes consultadas ](#fontes-consultadas)   
 [Autores](S#autores)  
 
-# Cadastro de endereço 🔗
+# Cadastro de endereço 
 
+![LoveGIF](https://github.com/okayVeronica/form-CadEndereco/assets/127870051/3fd15220-bda5-4b87-9708-24ca6ca35cbe)
 
 ![Capa do projeto](img-tela.png)
 
@@ -48,6 +49,7 @@ A seguir, listamos as principais tecnologias utilizadas neste projeto:
 
 
 ## Fontes consultadas 
+``Chatgpt``
 
 ## Autores 
-Veronica Borges
+``Veronica Borges``
