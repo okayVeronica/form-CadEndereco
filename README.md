@@ -10,10 +10,10 @@
 [Fontes consultadas ](#fontes-consultadas)   
 [Autores](S#autores)  
 
-# Cadastro de endereço
+# Cadastro de endereço 🔗
 
 
-![Capa do projeto](imag-tela.png)
+![Capa do projeto](img-tela.png)
 
 ## Introdução 
 Este é um formulario de cadastro de endereço simples, projetado para permitir que os usuários insiram informações de endereço de uma maneira fácil.
