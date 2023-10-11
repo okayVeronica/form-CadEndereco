@@ -49,7 +49,7 @@ A seguir, listamos as principais tecnologias utilizadas neste projeto:
 
 
 ## Fontes consultadas 
-``[ChatGPT]``(https://chat.openai.com/)
+[ChatGPT](https://chat.openai.com/)
 
 ## Autores 
-``[Verônica Borges]``(https://github.com/okayVeronic)
+[Verônica Borges](https://github.com/okayVeronic)
