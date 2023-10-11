@@ -52,4 +52,4 @@ A seguir, listamos as principais tecnologias utilizadas neste projeto:
 ``Chatgpt``
 
 ## Autores 
-``Veronica Borges``
+[Verônica Borges](https://github.com/okayVeronic)
