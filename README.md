@@ -49,7 +49,9 @@ A seguir, listamos as principais tecnologias utilizadas neste projeto:
 
 
 ## Fontes consultadas 
+[Leonardo Rocha](https://github.com/LeonardoRochaMarista)
 [ChatGPT](https://chat.openai.com/)
 
 ## Autores 
 [Verônica Borges](https://github.com/okayVeronic)
+[Leonardo Rocha](https://github.com/LeonardoRochaMarista)
